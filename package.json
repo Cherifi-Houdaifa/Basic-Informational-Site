@@ -1,0 +1,23 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "A Basic Informational Site using NodeJs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cherifi-Houdaifa/Basic-Informational-Site.git"
+  },
+  "author": "NotHoudaifa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cherifi-Houdaifa/Basic-Informational-Site/issues"
+  },
+  "homepage": "https://github.com/Cherifi-Houdaifa/Basic-Informational-Site#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
